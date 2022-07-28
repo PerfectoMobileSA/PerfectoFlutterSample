@@ -1,6 +1,6 @@
 # PerfectoFlutterSample
 
-Code from https://github.com/flutter/samples has been used.
+Code from https://github.com/flutter/samples has been used. 
 Slight modifications have been done aiming integration with Perfecto Mobile devices :iphone: 
 
 For more information on deployment, please visit the following page: 
